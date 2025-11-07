@@ -1,0 +1,103 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "mustafa.aslanovv@gmail.com",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "mailto:mustafa.aslanovv@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+994 70 820 75 09",
+        "icon": "/images/icon/call-icon.svg",
+        "link": "tel:+994708207509"
+      }
+    ],
+    "socialItems": [
+      {
+        "platform": "linkedin",
+        "icon": "/images/icon/linkedin-logo-svgrepo-com.svg",
+        "link": "https://www.linkedin.com/in/mustafa-aslanov-94864a310/"
+      },
+      {
+        "platform": "github",
+        "icon": "/images/icon/github-142-svgrepo-com.svg",
+        "link": "https://github.com/aslanovgx"
+      }
+    ]
+  },
+  "educationData": {
+    "education": [
+      {
+        "title": "AI & Machine Learning Program – 2025",
+        "description": "IDTech Academy (Digital Youth Scholarship, Ministry of Internal Affairs)"
+      },
+      {
+        "title": "Master's Degree 2025 - 2027",
+        "description": "Information Systems, Azerbaijan State Oil and Industry University (ASOIU), Baku, Azerbaijan"
+      },
+      {
+        "title": "Bachelor Diploma 2021 - 2025",
+        "description": "Computer Engineering, Azerbaijan State Oil and Industry University (ASOIU), Baku, Azerbaijan | Report Defense: 97 / 100"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "icon": "/images/home/education-skill/python-svgrepo-com.svg",
+        "rating": 5
+      },
+      {
+        "name": "JavaScript",
+        "icon": "/images/home/education-skill/javascript-svgrepo-com.svg",
+        "rating": 5
+      },
+      {
+        "name": "Next.js",
+        "icon": "/images/home/education-skill/nextjs-icon-svgrepo-com.svg",
+        "rating": 5
+      },
+      {
+        "name": "TypeScript",
+        "icon": "/images/home/education-skill/typescript-logo-svgrepo-com.svg",
+        "rating": 5
+      },
+      {
+        "name": "Docker",
+        "icon": "/images/home/education-skill/docker-svgrepo-com.svg",
+        "rating": 5
+      },
+      {
+        "name": "GitHub",
+        "icon": "/images/home/education-skill/github-svgrepo-com.svg",
+        "rating": 5
+      }
+    ]
+  },
+  "contactLinks": {
+    "socialLinks": [
+
+      {
+        "title": "LinkedIn",
+        "href": "https://www.linkedin.com/in/mustafa-aslanov-94864a310/"
+      },
+      {
+        "title": "GitHub",
+        "href": "https://github.com/aslanovgx"
+      }
+    ],
+    "contactInfo": [
+      {
+        "type": "email",
+        "label": "mustafa.aslanovv@gmail.com",
+        "link": "mailto:mustafa.aslanovv@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+994 70 820 75 09",
+        "link": "tel:+994708207509"
+      }
+    ]
+  }
+}
