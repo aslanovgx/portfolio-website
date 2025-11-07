@@ -5,8 +5,8 @@ import Logo from "../logo";
 const Header = () => {
     const handleDownloadPDF = () => {
         const link = document.createElement("a");
-        link.href = "/mustafa-aslanov-resume.pdf"; // public içində olan fayl
-        link.download = "Mustafa-Aslanov-Resume.pdf";
+        link.href = "/Mustafa-Aslanov-CV.pdf"; // public içində olan fayl
+        link.download = "Mustafa-Aslanov-CV.pdf";
         link.click();
     };
 
