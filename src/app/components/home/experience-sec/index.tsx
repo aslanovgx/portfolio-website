@@ -5,7 +5,7 @@ const ExperienceSec = () => {
         {
             year: "2023+",
             title: "Freelance Front-End Developer",
-            company: "Baku Solution Community",
+            company: "🏢 Baku Solution Community",
             type: "Remote",
             description: "Developing high-performance web applications and AI-integrated platforms using Next.js, TypeScript, and FastAPI. Focused on creating responsive interfaces, smooth REST API integrations, and efficient deployment workflows."
         },

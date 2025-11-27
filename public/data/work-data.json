@@ -5,6 +5,24 @@
       "title": "SaatAZ – E-commerce Platform",
       "client": "Greenwich",
       "slug": "https://saat.az"
+    },
+    {
+      "image": "/images/work/work-img-4.jpeg",
+      "title": "AI Image Classifier",
+      "client": "ML Computer Vision",
+      "slug": "https://aslanovgx-image-classifier-fastapi.hf.space"
+    },
+    {
+      "image": "/images/work/work-img-3.jpeg",
+      "title": "Hotel Reservation System",
+      "client": "Hotel Booking",
+      "slug": "https://hotel-booking-two-flame.vercel.app"
+    },
+    {
+      "image": "/images/work/work-img-2.jpeg",
+      "title": "Forester – Personal Project",
+      "client": "Forester Brand",
+      "slug": "https://the-forester-final-project-hqlo.vercel.app"
     }
   ]
 }
