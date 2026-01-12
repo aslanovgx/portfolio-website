@@ -1,6 +1,12 @@
 {
   "workData": [
     {
+      "image": "/images/work/work-img-5.jpeg",
+      "title": "Wine Research Report (Python, Pandas, SQLite, SQL, GitHub Pages)",
+      "client": "Research Assistant",
+      "slug": "https://aslanovgx.github.io/research-assistant-toolkit"
+    },
+    {
       "image": "/images/work/work-img-1.jpg",
       "title": "SaatAZ – E-commerce Platform",
       "client": "Greenwich",
