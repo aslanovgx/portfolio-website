@@ -30,16 +30,20 @@
   "educationData": {
     "education": [
       {
+        "title": "Generative AI Program – 2026",
+        "description": "Holberton School Azerbaijan (Full Scholarship – IDDA & PASHA Holding) • LLMs, RAG, Prompt Engineering"
+      },
+      {
         "title": "AI & Machine Learning Program – 2025",
         "description": "IDTech Academy (Digital Youth Scholarship, Ministry of Internal Affairs)"
       },
       {
-        "title": "Master's Degree 2025 - 2027",
-        "description": "Information Systems, Azerbaijan State Oil and Industry University (ASOIU), Baku, Azerbaijan"
+        "title": "Master’s Degree – Information Systems in Management (2025 – Present)",
+        "description": "Azerbaijan State Oil and Industry University (ASOIU), Baku, Azerbaijan • SABAH Groups • Focus: AI systems, data-driven applications"
       },
       {
-        "title": "Bachelor Diploma 2021 - 2025",
-        "description": "Computer Engineering, Azerbaijan State Oil and Industry University (ASOIU), Baku, Azerbaijan | Report Defense: 97 / 100"
+        "title": "Bachelor’s Degree – Computer Engineering (2021 – 2025)",
+        "description": "Azerbaijan State Oil and Industry University (ASOIU), Baku, Azerbaijan • SABAH Groups • GPA: 85/100 • Report Defense: 97/100"
       }
     ],
     "skills": [

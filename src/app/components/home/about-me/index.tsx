@@ -35,13 +35,8 @@ const AboutMe = () => {
 
               <div className="w-full lg:max-w-2xl flex-1">
                 <p>
-                  I’m Mustafa Aslanov, an AI Engineer and Front-End Developer based in Baku, Azerbaijan.
-                  I build intelligent, data-driven applications by combining machine learning models with
-                  modern web technologies like React.js and Next.js. My work ranges from training deep
-                  learning models in Python (TensorFlow, PyTorch) to deploying FastAPI APIs with Docker
-                  and integrating them into production-ready user interfaces.
+                  I’m Mustafa Aslanov, an AI Engineer and Front-End Developer based in Baku, Azerbaijan. I build intelligent, data-driven applications by combining machine learning models with modern web technologies like React.js and Next.js. My work ranges from training deep learning models in Python (PyTorch, scikit-learn) to deploying FastAPI APIs with Docker and integrating them into production-ready user interfaces.
                 </p>
-
                 <div className="grid grid-cols-3 py-10 xl:py-16 gap-5 border-b border-mistGray">
                   {[
                     { count: "3+", label: "Years of experience" },
@@ -68,7 +63,7 @@ const AboutMe = () => {
                     <p className="text-base xl:text-xl text-black">Language</p>
                   </div>
                   <div className="flex flex-wrap justify-center items-center gap-2.5">
-                    {["Azerbaijani","English", "Turkish", "Russian"].map((lang) => (
+                    {["Azerbaijani", "English", "Turkish", "Russian"].map((lang) => (
                       <p
                         key={lang}
                         className="bg-white py-2 md:py-3.5 px-4 md:px-5 w-fit rounded-full text-base xl:text-xl"

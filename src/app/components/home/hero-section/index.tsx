@@ -23,7 +23,7 @@ const index = () => {
               <h1>AI/ML Engineer</h1>
             </div>
             <p className="text-secondary font-normal max-w-md xl:max-w-xl">
-              I build and deploy intelligent AI systems using TensorFlow, scikit-learn, FastAPI, Docker, and Next.js — combining machine learning, API design, and web technologies to deliver scalable, production-ready solutions.
+              I build and deploy AI-powered applications using PyTorch, scikit-learn, and Python, integrated with FastAPI, Docker, and Next.js — delivering scalable, production-ready machine learning systems.
             </p>
           </div>
           <Image

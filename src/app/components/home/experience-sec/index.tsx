@@ -3,33 +3,19 @@ import React from 'react';
 const ExperienceSec = () => {
     const experiences = [
         {
-            year: "2023+",
-            title: "Freelance Front-End Developer",
-            company: "🏢 Baku Solution Community",
-            type: "Remote",
-            description: "Developing high-performance web applications and AI-integrated platforms using Next.js, TypeScript, and FastAPI. Focused on creating responsive interfaces, smooth REST API integrations, and efficient deployment workflows."
+            year: "10/2025 – 02/2026",
+            title: "AI Engineer Intern",
+            company: "🏢 QSS Analytics",
+            type: "Onsite",
+            description: "Built and optimized ML/DL models using PyTorch and scikit-learn, applying feature engineering and hyperparameter tuning. Deployed models via FastAPI and Docker in scalable environments."
         },
         {
-            year: "02/2025 – 06/2025",
-            title: "Front-End Developer (Intern)",
-            company: "🏢 Baku Design Center",
-            type: "Fulltime",
-            description: "Worked on Next.js projects, implemented modular TypeScript components, and optimized user experience through UI/UX refinement and API integration."
+            year: "07/2023 – 06/2025",
+            title: "Front-End Developer",
+            company: "🏢 Baku Solution Community",
+            type: "Onsite",
+            description: "Developed responsive web applications using React.js, Next.js, and TypeScript, integrating REST APIs and building scalable, data-driven user interfaces."
         },
-        // {
-        //     year: "2020-2022",
-        //     title: "Team Lead Designer",
-        //     company: "www.company.com",
-        //     type: "Fulltime",
-        //     description: "Handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated"
-        // },
-        // {
-        //     year: "2023+",
-        //     title: "Team Lead Designer",
-        //     company: "www.latest.com",
-        //     type: "Fulltime",
-        //     description: "Release of Letraset sheets containing Lorem Ipsum passages and more recently with desktop publishing software"
-        // }
     ];
 
     return (
